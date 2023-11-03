@@ -121,10 +121,7 @@ const AdminRegister = () => {
                                 variant="text"
                                 onClick={registerAdmin}
                                 color="primary"
-                                align="center"
-                            >
-                                Register
-                            </Button>
+                                align="center">  Register</Button>
                             <Button
                                 onClick={() => history.push("/admin")}
                                 variant="text"
